@@ -1,0 +1,21 @@
+{	
+	"key_input": "--INSERT BUCKET URI HERE--/input/ALL.chr22.80000.vcf.gz",
+	"key": "--INSERT BUCKET URI HERE--/input/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5.20130502.sites.annotation.vcf.gz",
+	"key_columnsfile": "--INSERT BUCKET URI HERE--/input/columns.txt",
+	"k": 5,
+	"x": [0,1,2,3,4],
+	"failure_prob": 0,
+	"AFR": "--INSERT BUCKET URI HERE--/input/AFR",
+	"ALL": "--INSERT BUCKET URI HERE--/input/ALL",
+	"AMR": "--INSERT BUCKET URI HERE--/input/AMR",
+	"EAS": "--INSERT BUCKET URI HERE--/input/EAS",
+	"EUR": "--INSERT BUCKET URI HERE--/input/EUR",
+	"GBR": "--INSERT BUCKET URI HERE--/input/GBR",
+	"SAS": "--INSERT BUCKET URI HERE--/input/SAS",
+	"aws_access_key_id": "--INSERT AWS ACCESS KEY ID HERE HERE OR REMOVE LINE--",
+	"aws_secret_key": "--INSERT AWS SECRET KEY HERE OR REMOVE LINE--",
+	"aws_session_token": "--INSERT AWS SESSION TOKEN HERE OR REMOVE LINE--",
+	"gcp_project_id": "--INSERT GCP PROJECT ID HERE OR REMOVE LINE--",
+	"gcp_private_key": "--INSERT GCP PRIVATE KEY HERE OR REMOVE LINE--",
+	"gcp_client_email": "--INSERT CLIENT EMAIL ID HERE OR REMOVE LINE--"
+}
