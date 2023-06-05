@@ -1,0 +1,22 @@
+{	
+	"key_input": "<bucket>/input/ALL.chr22.80000.vcf.gz",
+	"key": "<bucket>/input/ALL.chr22.phase3_shapeit2_mvncall_integrated_v5.20130502.sites.annotation.vcf.gz",
+	"key_columnsfile": "<bucket>/input/columns.txt",
+	"k": 2,
+	"x": [0,1],
+	"failure_prob": 0,
+	"output_bucket": "<bucket>",
+	"AFR": "<bucket>/input/AFR",
+	"ALL": "<bucket>/input/ALL",
+	"AMR": "<bucket>/input/AMR",
+	"EAS": "<bucket>/input/EAS",
+	"EUR": "<bucket>/input/EUR",
+	"GBR": "<bucket>/input/GBR",
+	"SAS": "<bucket>/input/SAS",
+	"aws_access_key_id": "",
+	"aws_secret_key": "",
+	"aws_session_token": "",
+	"gcp_project_id": "",
+	"gcp_private_key": "",
+	"gcp_client_email": ""
+}
